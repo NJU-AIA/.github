@@ -40,6 +40,8 @@ NJU-AIA 是南京大学的人工智能学生社区。我们关注 **AI 知识普
 最新内容由 GitHub Actions 自动从 [nju-aia.com](https://nju-aia.com) 同步。
 
 <!-- AIA_FEED:START -->
+- **[【活动预告】成为 AI-Native 大学生：用大模型与 Coding Agent 提升生产力](https://nju-aia.com/reader?id=b41d4e7d)**  
+  <sub>Preview · 2026-09-12 · 南的AIA</sub>
 - **[【龙虾快闪+讲座双预告】玩转 AstronClaw龙虾，奶茶券耳机大疆等大奖等你来拿！](https://nju-aia.com/reader?id=ea156dc4)**  
   <sub>Preview · 2026-04-15 · 南大创协</sub>
 - **[【讲座预告】Vibe Math——AI如何颠覆数学研究](https://nju-aia.com/reader?id=461b7104)**  
@@ -50,8 +52,6 @@ NJU-AIA 是南京大学的人工智能学生社区。我们关注 **AI 知识普
   <sub>Tutorial · 2026-04-10 · 曾睿鸣</sub>
 - **[ddpm简介](https://nju-aia.com/reader?id=e68228bb)**  
   <sub>Tutorial · 2026-04-10 · 陈旭枫</sub>
-- **[AIA Workshop回顾｜从本地部署到远程调用，带你快速上手 OpenClaw](https://nju-aia.com/reader?id=db6372ed)**  
-  <sub>Activity · 2026-03-07 · 南的AIA</sub>
 <!-- AIA_FEED:END -->
 ## Build with us
 
