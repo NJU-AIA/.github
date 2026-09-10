@@ -1,0 +1,63 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="NJU-AIA — Artificial Intelligence Association of Nanjing University" />
+</p>
+
+<p align="center">
+  <strong>南京大学人工智能协会 · Artificial Intelligence Association of Nanjing University</strong>
+</p>
+
+<p align="center">
+  面向所有对人工智能感兴趣的同学，从概念与实践入门，到项目协作与前沿交流。<br/>
+  我们希望把 AI 知识带给更多人，也让热爱 AI 的伙伴在这里相遇、学习、创造。
+</p>
+
+<p align="center">
+  <img alt="AI Education" src="https://img.shields.io/badge/AI%20Education-5D0A6B?style=flat-square" />
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-40B3FF?style=flat-square" />
+  <img alt="Projects" src="https://img.shields.io/badge/Projects-5D0A6B?style=flat-square" />
+  <img alt="Community" src="https://img.shields.io/badge/Community-40B3FF?style=flat-square" />
+</p>
+
+---
+
+## About NJU-AIA
+
+NJU-AIA 是南京大学的人工智能学生社区。我们关注 **AI 知识普及、入门引导、学术交流与实践创新**，欢迎不同专业、不同基础的同学参与。
+
+我们通过定期技术分享与讨论、项目实践和比赛协作，把“学到的 AI”变成“做出来的 AI”，并持续沉淀开放、可复用的学习资料与代码。
+
+## What we do
+
+<table>
+<tr>
+<td width="25%" valign="top"><b>01 · Learn</b><br/><sub>从神经网络基础到生成模型，提供循序渐进的学习内容与实践代码。</sub></td>
+<td width="25%" valign="top"><b>02 · Share</b><br/><sub>定期讨论与技术分享，交流 AI 前沿、课程应用与工程实践中的真实问题。</sub></td>
+<td width="25%" valign="top"><b>03 · Build</b><br/><sub>围绕项目与比赛组队协作，把想法快速落地为可以运行、验证和迭代的作品。</sub></td>
+<td width="25%" valign="top"><b>04 · Connect</b><br/><sub>连接不同方向与背景的同学，建设开放、活跃、长期生长的校园 AI 社区。</sub></td>
+</tr>
+</table>
+
+## Start exploring
+
+- **[intro-to-generative-models](https://github.com/NJU-AIA/intro-to-generative-models)** — “生成模型初探”例会代码与学习材料。
+- **[Learning](https://github.com/NJU-AIA/Learning)** — NJU-AIA 教学例会代码与历年学习内容。
+- **[MLP](https://github.com/NJU-AIA/MLP)** — “神经网络基础”教学例会代码仓库。
+- **[BP](https://github.com/NJU-AIA/BP)** — 反向传播（Backpropagation）主题例会代码。
+- **[Candy-Image-Classifier](https://github.com/NJU-AIA/Candy-Image-Classifier)** — 糖图分类器 Benchmark 与 baseline 实现。
+- **[nju-ai-past-exams](https://github.com/NJU-AIA/nju-ai-past-exams)** — 南京大学 AI 课程往年题库与回忆版资料库。
+
+## Build with us
+
+我们的仓库覆盖 **Python · Jupyter Notebook · Go · Vue · Astro · Nix** 等技术栈。欢迎从阅读资料、运行示例、改进文档开始，也欢迎通过 Issue 和 Pull Request 参与建设。
+
+<p align="center">
+  <a href="https://github.com/NJU-AIA?tab=repositories"><b>Explore repositories →</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:NJU_AIA@163.com"><b>Contact us →</b></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>QQ群：897201506 · 微信公众号：南的AIA · Email：NJU_AIA@163.com</sub>
+</p>
