@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>南京大学人工智能协会 · Artificial Intelligence Association of Nanjing University</strong>
-</p>
-
-<p align="center">
-  面向所有对人工智能感兴趣的同学，从概念与实践入门，到项目协作与前沿交流。<br/>
-  我们希望把 AI 知识带给更多人，也让热爱 AI 的伙伴在这里相遇、学习、创造。
+  <strong>探索人工智能 · 连接学习与实践 · 共建开放的校园 AI 社区</strong><br/>
+  <sub>From first principles to real projects, from learning together to building together.</sub>
 </p>
 
 <p align="center">
@@ -30,10 +26,12 @@ NJU-AIA 是南京大学的人工智能学生社区。我们关注 **AI 知识普
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>01 · Learn</b><br/><sub>从神经网络基础到生成模型，提供循序渐进的学习内容与实践代码。</sub></td>
-<td width="25%" valign="top"><b>02 · Share</b><br/><sub>定期讨论与技术分享，交流 AI 前沿、课程应用与工程实践中的真实问题。</sub></td>
-<td width="25%" valign="top"><b>03 · Build</b><br/><sub>围绕项目与比赛组队协作，把想法快速落地为可以运行、验证和迭代的作品。</sub></td>
-<td width="25%" valign="top"><b>04 · Connect</b><br/><sub>连接不同方向与背景的同学，建设开放、活跃、长期生长的校园 AI 社区。</sub></td>
+<td width="50%" valign="top"><b>01 · Learn</b><br/><sub>从神经网络基础到生成模型，提供循序渐进的学习内容与实践代码。</sub></td>
+<td width="50%" valign="top"><b>02 · Share</b><br/><sub>定期讨论与技术分享，交流 AI 前沿、课程应用与工程实践中的真实问题。</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b>03 · Build</b><br/><sub>围绕项目与比赛组队协作，把想法快速落地为可以运行、验证和迭代的作品。</sub></td>
+<td width="50%" valign="top"><b>04 · Connect</b><br/><sub>连接不同方向与背景的同学，建设开放、活跃、长期生长的校园 AI 社区。</sub></td>
 </tr>
 </table>
 
