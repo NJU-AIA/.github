@@ -37,13 +37,22 @@ NJU-AIA 是南京大学的人工智能学生社区。我们关注 **AI 知识普
 
 ## Start exploring
 
-- **[intro-to-generative-models](https://github.com/NJU-AIA/intro-to-generative-models)** — “生成模型初探”例会代码与学习材料。
-- **[Learning](https://github.com/NJU-AIA/Learning)** — NJU-AIA 教学例会代码与历年学习内容。
-- **[MLP](https://github.com/NJU-AIA/MLP)** — “神经网络基础”教学例会代码仓库。
-- **[BP](https://github.com/NJU-AIA/BP)** — 反向传播（Backpropagation）主题例会代码。
-- **[Candy-Image-Classifier](https://github.com/NJU-AIA/Candy-Image-Classifier)** — 糖图分类器 Benchmark 与 baseline 实现。
-- **[nju-ai-past-exams](https://github.com/NJU-AIA/nju-ai-past-exams)** — 南京大学 AI 课程往年题库与回忆版资料库。
+最新内容由 GitHub Actions 自动从 [nju-aia.com](https://nju-aia.com) 同步。
 
+<!-- AIA_FEED:START -->
+- **[【龙虾快闪+讲座双预告】玩转 AstronClaw龙虾，奶茶券耳机大疆等大奖等你来拿！](https://nju-aia.com/reader?id=ea156dc4)**  
+  <sub>Preview · 2026-04-15 · 南大创协</sub>
+- **[【讲座预告】Vibe Math——AI如何颠覆数学研究](https://nju-aia.com/reader?id=461b7104)**  
+  <sub>Preview · 2026-04-14 · 南的AIA</sub>
+- **[FlowMatching-DiT](https://nju-aia.com/reader?id=9fdbe90a)**  
+  <sub>Tutorial · 2026-04-14 · 李子墨</sub>
+- **[vae简介](https://nju-aia.com/reader?id=52d5d691)**  
+  <sub>Tutorial · 2026-04-10 · 曾睿鸣</sub>
+- **[ddpm简介](https://nju-aia.com/reader?id=e68228bb)**  
+  <sub>Tutorial · 2026-04-10 · 陈旭枫</sub>
+- **[AIA Workshop回顾｜从本地部署到远程调用，带你快速上手 OpenClaw](https://nju-aia.com/reader?id=db6372ed)**  
+  <sub>Activity · 2026-03-07 · 南的AIA</sub>
+<!-- AIA_FEED:END -->
 ## Build with us
 
 我们的仓库覆盖 **Python · Jupyter Notebook · Go · Vue · Astro · Nix** 等技术栈。欢迎从阅读资料、运行示例、改进文档开始，也欢迎通过 Issue 和 Pull Request 参与建设。

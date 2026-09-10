@@ -1,0 +1,38 @@
+name: Sync profile feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-profile-feed
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Fetch latest NJU-AIA articles
+        run: python3 scripts/update_exploring.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- profile/README.md; then
+            echo "Profile is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -m "chore: sync profile feed"
+          git push
